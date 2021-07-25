@@ -24,10 +24,11 @@ I have done quite a lot of projects and have been actively taking online course 
 You can reach me out at [LinkedIn](https://www.linkedin.com/in/handy-zulkarnain/).
 
 Thanks for your time here!
-
+<!--
 <p align="left">
 <a href="https://github.com/handyzulkarnain">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=handyzulkarnain&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=handyzulkarnain&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+-->
 </p>
