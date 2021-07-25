@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Handy Zulkarnain.
+
+I'm an undergraduate at Institut Teknologi Bandung, majoring in Information System and Technology.
+
+I have done quite a lot of projects and have been actively taking online course to improve my coding skills.
+
+You can reach me out at [LinkedIn](https://www.linkedin.com/in/handy-zulkarnain/).
+
+Thanks for your time here!
